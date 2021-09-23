@@ -1,0 +1,7 @@
+.search__bar{
+    display:flex;
+    align-items: center;
+    align-content: center;
+    padding-left: 500px;
+    padding-bottom: 40px;
+}
